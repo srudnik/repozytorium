@@ -11,6 +11,8 @@ main()
   
   while(i < 1000)
     {
+	// He he dodalem komentarz dla gita
+	// i jest super
       scanf("%d",&tab[i]);
       if(tab[i] == -1)
 	{
