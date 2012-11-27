@@ -1,4 +1,8 @@
+
 /* DUPA   cycki pipa dupa cycki piwa  :D
+
+
+
  Program wprowadzajacy n liczb i wypisujacy je w odwrotnej kolejnosci
  */
 
