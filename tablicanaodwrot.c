@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-/* CENZURA  !!!! ZSRR
-=======
-/*cycki dupa  :D
->>>>>>> 1956faf557bc17f0279c4ede4c5096fa8f0a8ae5
+
+
+/* DUPA   cycki pipa dupa cycki piwa  :D
+
+
  Program wprowadzajacy n liczb i wypisujacy je w odwrotnej kolejnosci
  */
 
@@ -29,5 +29,5 @@ main()
     {
       printf("%d ",tab[i]);
       i--;
-    }/*moja zmiana "*/
+    }/*juz jest moja "*/
 }
