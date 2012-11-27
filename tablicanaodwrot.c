@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* CENZURA  !!!! ZSRR
+=======
+/*cycki dupa  :D
+>>>>>>> 1956faf557bc17f0279c4ede4c5096fa8f0a8ae5
  Program wprowadzajacy n liczb i wypisujacy je w odwrotnej kolejnosci
  */
 
