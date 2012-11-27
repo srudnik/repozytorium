@@ -1,4 +1,4 @@
-/* DUPA   cycki  :D
+/* CENZURA  !!!! ZSRR
  Program wprowadzajacy n liczb i wypisujacy je w odwrotnej kolejnosci
  */
 
