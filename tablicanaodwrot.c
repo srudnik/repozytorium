@@ -1,4 +1,4 @@
-/* DUPA   cycki  :D
+/* DUPA   cycki pipa dupa cycki piwa  :D
  Program wprowadzajacy n liczb i wypisujacy je w odwrotnej kolejnosci
  */
 
@@ -23,5 +23,5 @@ main()
     {
       printf("%d ",tab[i]);
       i--;
-    }/*moja zmiana "*/
+    }/*juz jest moja "*/
 }
