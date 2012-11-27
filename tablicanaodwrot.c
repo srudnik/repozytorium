@@ -1,4 +1,4 @@
-/* Łukasz Jercha nr albumu 215571 grupa F
+/* DUPA   cycki  :D
  Program wprowadzajacy n liczb i wypisujacy je w odwrotnej kolejnosci
  */
 
