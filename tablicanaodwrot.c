@@ -23,5 +23,5 @@ main()
     {
       printf("%d ",tab[i]);
       i--;
-    }
+    }/*moja zmiana "*/
 }
